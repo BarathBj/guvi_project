@@ -1,6 +1,6 @@
 # guvi_project - Youtube Data Harvesting Projects
 
-# need packages & library
+# Need packages & library:
 1.python -- used programming language,
 2.pymongo -- mongodb,
 3.psycopg2 -- for connection PSQL database,

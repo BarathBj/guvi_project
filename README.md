@@ -1,11 +1,11 @@
 # guvi_project - Youtube Data Harvesting Projects
 
 # need packages & library
-1.python -- used programming language
-2.pymongo -- mongodb
-3.psycopg2 -- for connection PSQL database
-4.pandas  -- package for dataframe
-5.googleapiclient -- for api key
+1.python -- used programming language,
+2.pymongo -- mongodb,
+3.psycopg2 -- for connection PSQL database,
+4.pandas  -- package for dataframe,
+5.googleapiclient -- for api key,
 6.streamlit -- need for web app
 
 api key creation - first we go to google console developer to create a new project and then select api services& credentials to click credentials and generate a Youtube API key and select a youtube api v3 and select need a function likes channel,comments,etc...

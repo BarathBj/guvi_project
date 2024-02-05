@@ -51,7 +51,7 @@ def get_channel_info(channel_id):
 ###
 
 
-#get playlistitems ids
+#get playlists ids
 def get_playlist_info(channel_id):
     All_data = []
     next_page_token = None

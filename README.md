@@ -1,5 +1,7 @@
 # guvi_project - Youtube Data Harvesting Projects
 
+# Project Description : (Youtube Data Harvest Project)  In this project Youtube Data Harvesting and Warehousing application, Retrieval of channel details and video details data from Youtube using Youtube API. Storage of MongoDB database used to stored some Youtube Channel details. Migrate of data from Mongodb to PSQL in storing same Youtube Channel deatils.
+
 # Need packages & library:
 1.python -- used programming language,
 2.pymongo -- mongodb,
@@ -21,8 +23,4 @@ PSQL - PostgreSQL is an Database Management System (DMBS), which means that it h
 Google API Client - Google API client libraries, which are available for many programming languages, can greatly simplify your YouTube API implementation. In the following tables, the first column shows each library's stage of development (note that some are in early stages), and links to documentation for the library.
 
 
-Youtube Data Harvest Project :  In this project Youtube Data Harvesting and Warehousing application, Retrieval of channel details and video details data from Youtube using Youtube API.
 
-Storage of MongoDB database used to stored some Youtube Channel details.
-
-Migrate of data from Mongodb to PSQL in storing same Youtube Channel deatils.

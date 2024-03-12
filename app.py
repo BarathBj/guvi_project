@@ -1,6 +1,5 @@
 import pymongo
 import psycopg2
-import mysql.connector
 import pandas as pd
 from pymongo import MongoClient
 import streamlit as st
